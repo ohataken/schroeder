@@ -16,6 +16,8 @@
   },
   "enabledPlugins": {
   },
+  "extraKnownMarketplaces": {
+  },
   "language": "japanese",
   "tui": "fullscreen",
   "theme": "light"
