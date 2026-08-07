@@ -4,6 +4,9 @@
   },
   "permissions": {
     "deny": [
+      "Bash(docker port *)",
+      "Bash(docker compose *)",
+      "Bash(docker start *)"
     ],
     "ask": [
     ],
