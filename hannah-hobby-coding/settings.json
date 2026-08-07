@@ -176,6 +176,8 @@
     ]
   },
   "statusLine": {
+    "type": "command",
+    "command": "sietse-statusline claude --cyan --bold --project-dir-name --reset --space --white on --space --magenta --bold   --space --branch-name --space --reset --worktree --space --red --git-status --space 🤖 --space --reset --bold --red --model-id --reset --space --red --context-window-used-percentage % --reset --space --context-window-size --reset --space --branch-head-sha"
   },
   "enabledPlugins": {
   },
