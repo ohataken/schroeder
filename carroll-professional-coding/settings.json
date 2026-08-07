@@ -12,6 +12,8 @@
   },
   "hooks": {
   },
+  "statusLine": {
+  },
   "language": "japanese",
   "tui": "fullscreen",
   "theme": "light"
