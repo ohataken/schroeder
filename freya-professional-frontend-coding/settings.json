@@ -4,6 +4,8 @@
   },
   "permissions": {
     "deny": [
+    ],
+    "ask": [
     ]
   },
   "language": "japanese",
