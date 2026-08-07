@@ -9,6 +9,16 @@
       "Bash(docker start *)"
     ],
     "ask": [
+      "mcp__plugin_figma_figma__create_design_system_rules",
+      "mcp__plugin_Notion_notion__notion-update-page",
+      "Bash(gh api * -f body=*)",
+      "Bash(gh api * -F body=*)",
+      "Bash(gh api * --field body=*)",
+      "Bash(gh api * --raw-field body=*)",
+      "Bash(gh issue comment *)",
+      "Bash(gh pr review * --comment *)",
+      "Bash(gh pr comment *)",
+      "Bash(gh pr create *)"
     ],
     "allow": [
     ]
