@@ -3,6 +3,8 @@
   "env": {
   },
   "permissions": {
+    "deny": [
+    ]
   },
   "language": "japanese",
   "tui": "fullscreen",
