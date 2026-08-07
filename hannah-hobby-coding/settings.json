@@ -103,6 +103,16 @@
           }
         ]
       }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "tee -a /Users/ken.ohata/GitHub/eduardo-kirk/session-end.jsonl | eduardo-kirk session-end"
+          }
+        ]
+      }
     ]
   },
   "statusLine": {
