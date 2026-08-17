@@ -95,5 +95,6 @@
     ]
   },
   "model": "opus[1m]",
-  "effortLevel": "xhigh"
+  "effortLevel": "xhigh",
+  "fastMode": true
 }
