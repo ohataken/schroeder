@@ -6,4 +6,4 @@
 /sessions
 /shell-snapshots
 .claude.json
-.history.jsonl
+history.jsonl
