@@ -93,5 +93,6 @@
       "Bash(cat *)",
       "Bash(ls *)"
     ]
-  }
+  },
+  "model": "opus[1m]"
 }
