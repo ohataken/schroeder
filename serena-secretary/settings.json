@@ -94,5 +94,6 @@
       "Bash(ls *)"
     ]
   },
-  "model": "opus[1m]"
+  "model": "opus[1m]",
+  "effortLevel": "xhigh"
 }
