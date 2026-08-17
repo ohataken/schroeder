@@ -8,3 +8,4 @@
 /shell-snapshots
 .claude.json
 history.jsonl
+mcp-needs-auth-cache.json
