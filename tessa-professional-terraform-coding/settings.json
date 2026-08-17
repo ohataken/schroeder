@@ -95,6 +95,7 @@
     ]
   },
   "model": "opus[1m]",
+  "effortLevel": "xhigh",
   "fastMode": true,
   "hooks": {
     "SessionStart": [
