@@ -3,5 +3,6 @@
   "env": {
   },
   "permissions": {
+    "defaultMode": "auto"
   }
 }
