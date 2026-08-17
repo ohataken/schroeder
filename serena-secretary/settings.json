@@ -187,5 +187,6 @@
   },
   "extraKnownMarketplaces": {
   },
-  "language": "japanese"
+  "language": "japanese",
+  "tui": "fullscreen"
 }
