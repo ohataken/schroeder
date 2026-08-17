@@ -20,6 +20,8 @@
       "Bash(gh pr review * --comment *)",
       "Bash(gh pr comment *)",
       "Bash(gh pr create *)"
+    ],
+    "allow": [
     ]
   }
 }
