@@ -95,6 +95,7 @@
     ]
   },
   "model": "opus[1m]",
+  "fastMode": true,
   "hooks": {
     "SessionStart": [
       {
