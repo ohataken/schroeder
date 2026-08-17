@@ -117,6 +117,16 @@
           }
         ]
       }
+    ],
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "tee -a /Users/ken.ohata/GitHub/eduardo-kirk/notification.jsonl | eduardo-kirk notification"
+          }
+        ]
+      }
     ]
   }
 }
