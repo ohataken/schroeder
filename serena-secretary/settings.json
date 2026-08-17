@@ -188,5 +188,6 @@
   "extraKnownMarketplaces": {
   },
   "language": "japanese",
-  "tui": "fullscreen"
+  "tui": "fullscreen",
+  "theme": "light"
 }
