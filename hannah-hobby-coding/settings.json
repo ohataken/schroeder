@@ -132,6 +132,14 @@
             "command": "tee -a /Users/ken.ohata/GitHub/eduardo-kirk/session-end.jsonl | eduardo-kirk session-end"
           }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer session_end '%Y-%m-%dT%H%M%S'"
+          }
+        ]
       }
     ],
     "Notification": [
