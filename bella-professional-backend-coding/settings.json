@@ -119,7 +119,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer '%Y-%m-%dT%H%M%S'"
+            "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer session_start '%Y-%m-%dT%H%M%S'"
           }
         ]
       }
