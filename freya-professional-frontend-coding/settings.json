@@ -4,6 +4,9 @@
   },
   "permissions": {
     "defaultMode": "auto",
+    "additionalDirectories": [
+      "~/claude-code-vault/"
+    ],
     "deny": [
       "Bash(docker port *)",
       "Bash(docker compose *)",
