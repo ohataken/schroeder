@@ -12,3 +12,4 @@ mcp-needs-auth-cache.json
 .last-cleanup
 /chrome
 /plans
+/session-env
