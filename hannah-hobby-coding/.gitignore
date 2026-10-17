@@ -15,3 +15,4 @@ mcp-needs-auth-cache.json
 /session-env
 /skills/synced
 /state
+/telemetry
