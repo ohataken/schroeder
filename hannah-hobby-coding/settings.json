@@ -149,6 +149,14 @@
             "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer session_end '%Y-%m-%dT%H%M%S'"
           }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "OBSIDIAN_VAULT_PATH=/path/to/claude-code-transcription-vault claude-hook-zk-prefixer session_end '%Y-%m-%dT%H%M%S%3f'"
+          }
+        ]
       }
     ],
     "Notification": [
