@@ -110,7 +110,7 @@
           },
           {
             "type": "command",
-            "command": "OBSIDIAN_SESSION_DIR=/Users/ken.ohata/obsidian_daily_notes/claude-code-session-uuid claude-hook-session-id-note"
+            "command": "OBSIDIAN_SESSION_DIR=/path/to/claude-code-daily-note-vault/claude-code-session-uuid claude-hook-session-id-note"
           }
         ]
       },
@@ -119,7 +119,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer session_start '%Y-%m-%dT%H%M%S'"
+            "command": "OBSIDIAN_VAULT_PATH=/path/to/claude-code-daily-note-vault claude-hook-zk-prefixer session_start '%Y-%m-%dT%H%M%S'"
           }
         ]
       },
@@ -146,7 +146,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "OBSIDIAN_VAULT_PATH=/Users/ken.ohata/obsidian_daily_notes claude-hook-zk-prefixer session_end '%Y-%m-%dT%H%M%S'"
+            "command": "OBSIDIAN_VAULT_PATH=/path/to/claude-code-daily-note-vault claude-hook-zk-prefixer session_end '%Y-%m-%dT%H%M%S'"
           }
         ]
       },
